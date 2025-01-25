@@ -1,1 +1,1 @@
-# mkdir-
+I did this project following what i understood but no matter what i did or changed the file wouldnt register in the code. I may have done it wrong but i did try my best. I will say im still very confused on how github is used even after watching the videos. 
